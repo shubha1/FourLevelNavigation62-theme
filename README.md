@@ -21,5 +21,5 @@ Technologies used to create this theme
 To use it in any Liferay 6.2 portal. 
 A war file is being provided. It also includes the source code to work with.
 You can install it usting:
-- Copy the WAR file to Tomcat Deploy Folder on your running Liferay 6.2 instance.
+- Copy the WAR file to your LiferayPortal6.2 > Deploy Folder while your Liferay 6.2 instance is running.
 - Install it using Liferay 6.2 interface: Control Panel > App Manager > Install > File Upload > Choose WAR File and Click Install
